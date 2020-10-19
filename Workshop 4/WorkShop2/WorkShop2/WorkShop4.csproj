@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EFE4FB78-CF10-4569-B36E-A8694E403FDE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WorkShop2</RootNamespace>
+    <AssemblyName>WorkShop2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAddEditProductSuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditProductSuppliers.Designer.cs">
+      <DependentUpon>frmAddEditProductSuppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditSuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditSuppliers.Designer.cs">
+      <DependentUpon>frmAddEditSuppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddProductToPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddProductToPackage.Designer.cs">
+      <DependentUpon>frmAddProductToPackage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditPackages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditPackages.Designer.cs">
+      <DependentUpon>frmAddEditPackages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditProducts.Designer.cs">
+      <DependentUpon>frmAddEditProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TravelExpertDB.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TravelExpertDB.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Validator.cs" />
+    <EmbeddedResource Include="frmAddEditProductSuppliers.resx">
+      <DependentUpon>frmAddEditProductSuppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditSuppliers.resx">
+      <DependentUpon>frmAddEditSuppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddProductToPackage.resx">
+      <DependentUpon>frmAddProductToPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditPackages.resx">
+      <DependentUpon>frmAddEditPackages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditProducts.resx">
+      <DependentUpon>frmAddEditProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\Package.datasource" />
+    <None Include="Properties\DataSources\Packages_Products_Supplier.datasource" />
+    <None Include="Properties\DataSources\Package_Product.datasource" />
+    <None Include="Properties\DataSources\Product.datasource" />
+    <None Include="Properties\DataSources\Products_Supplier.datasource" />
+    <None Include="Properties\DataSources\Supplier.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TravelExpertDB.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>TravelExpertDB.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TravelExpertDB.dbml.layout">
+      <DependentUpon>TravelExpertDB.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\140-2448x2448.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\journal_dubaijpg.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

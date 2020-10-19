@@ -1,0 +1,54 @@
+C:\Users\User\source\repos\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe.config
+C:\Users\User\source\repos\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe
+C:\Users\User\source\repos\WorkShop2\WorkShop2\bin\Debug\WorkShop2.pdb
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop2.Properties.Resources.resources
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop2.exe
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop2.pdb
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditProducts.resources
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditPackages.resources
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditSuppliers.resources
+C:\Users\User\source\repos\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmHome.resources
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe.config
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.pdb
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csprojAssemblyReference.cache
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditSuppliers.resources
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmHome.resources
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditPackages.resources
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditProducts.resources
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.Properties.Resources.resources
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.GenerateResource.cache
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.CoreCompileInputs.cache
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.exe
+C:\Users\mabservi\Downloads\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.pdb
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe.config
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.pdb
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csprojAssemblyReference.cache
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditSuppliers.resources
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmHome.resources
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditPackages.resources
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditProducts.resources
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.Properties.Resources.resources
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.GenerateResource.cache
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.CoreCompileInputs.cache
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.exe
+C:\Users\mabservi\Desktop\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.pdb
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe.config
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.exe
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\bin\Debug\WorkShop2.pdb
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditSuppliers.resources
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmHome.resources
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditPackages.resources
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditProducts.resources
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.Properties.Resources.resources
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.exe
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.pdb
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddEditProductSuppliers.resources
+C:\Users\User\Desktop\TECH CAREERS\Dot Net Web Applications\WorkShop4\WorkShop2\WorkShop2\obj\Debug\WorkShop2.frmAddProductToPackage.resources
